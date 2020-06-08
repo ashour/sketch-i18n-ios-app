@@ -1,3 +1,7 @@
+**⚠️ This repo is no longer maintained! Please visit https://github.com/PhraseApp-Blog/sketch-i18n-ios-app for the up-to-date repo.**
+
+---
+
 # Sketch i18n iOS Demo App Mockup
 
 Companion app to PhraseApp Blog post.
